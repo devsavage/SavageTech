@@ -1,0 +1,18 @@
+[
+{
+  "modid": "savagetech",
+  "name": "SavageTech 2.0",
+  "description": "A random stuff mod with some tech based things.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "https://savageboy74.tv/mods/savagetech",
+  "updateUrl": "",
+  "authorList": ["savageboy74"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": [
+    "Forge"
+  ]
+}
+]

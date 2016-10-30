@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "savagetech:BlockLootBox" },
+    "facing=south": { "model": "savagetech:BlockLootBox", "y": 180 },
+    "facing=west":  { "model": "savagetech:BlockLootBox", "y": 270 },
+    "facing=east":  { "model": "savagetech:BlockLootBox", "y": 90 }
+  }
+}
